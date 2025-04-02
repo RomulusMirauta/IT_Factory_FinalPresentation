@@ -183,3 +183,4 @@ Slides_Text/
 *.pdf
 `/
 UpdateRepo.sh
+.donotpush/
