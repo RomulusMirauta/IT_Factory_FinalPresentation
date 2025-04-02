@@ -2,7 +2,7 @@
   <h1>IT Factory - Python Course - Final Presentation</h1>
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
 <a href="https://www.itfactory.ro/">
